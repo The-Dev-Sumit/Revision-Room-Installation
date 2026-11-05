@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="[assets/logo.png](https://res.cloudinary.com/dmmzqpfgg/image/upload/v1757868233/Revision_Room_transparent_zxdulk.png)" alt="Revision Room Logo" height="120" width="120" />
+  <img src="https://res.cloudinary.com/dmmzqpfgg/image/upload/v1757868233/Revision_Room_transparent_zxdulk.png" alt="Revision Room Logo"  width="160" />
 
   # Revision Room
 
@@ -42,7 +42,7 @@ Whether you're studying from PDFs, trying to understand difficult concepts, prep
 4. Follow the installation instructions.
 5. Open Revision Room and start learning!
 
-> **Note:** Download the application only from this official repository.
+> **Note:** Download the application only from this official repository or from the portfolio website.
 
 ## Screenshots
 
@@ -50,9 +50,9 @@ Whether you're studying from PDFs, trying to understand difficult concepts, prep
 
   <!-- Add your application screenshots here -->
 
-  <img src="assets/screenshots/dashboard.png" alt="Revision Room Dashboard" width="85%" />
+  <img src="https://res.cloudinary.com/dmmzqpfgg/image/upload/v1789805296/Screenshot_2026-09-19_133735_z8bwir.png" alt="Revision Room Dashboard" width="85%" />
 
-  <p><i>Revision Room Dashboard</i></p>
+  <p><i>Revision Room: Study Room</i></p>
 
 </div>
 
