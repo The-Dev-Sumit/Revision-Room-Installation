@@ -12,7 +12,7 @@
 
   [![Download](https://img.shields.io/badge/Download-Latest%20Version-6C5CE7?style=for-the-badge&logo=windows)](../../releases/latest)
   [![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows)](../../releases)
-  [![GitHub Releases](https://img.shields.io/github/v/release/YOUR_USERNAME/YOUR_REPOSITORY?style=for-the-badge)](../../releases)
+  [![GitHub Releases](https://img.shields.io/github/v/release/https://github.com/The-Dev-Sumit/Revision-Room-Installation)](../../releases)
 
 </div>
 
