@@ -9,10 +9,20 @@
   An all-in-one desktop learning workspace to study, understand, practice, and improve.
 
   <br />
-
-  [![Download](https://img.shields.io/badge/Download-Latest%20Version-6C5CE7?style=for-the-badge&logo=windows)](../../releases/latest)
-  [![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows)](../../releases)
-  [![Version](https://img.shields.io/github/v/release/The-Dev-Sumit/Revision-Room-Installation?style=for-the-badge&label=VERSION)](../../releases)
+<p align="center">
+  <a href="../../releases">
+    <img src="https://img.shields.io/github/downloads/The-Dev-Sumit/Revision-Room-Installation/total?style=for-the-badge&label=DOWNLOADS&color=6C5CE7&labelColor=555555" alt="Downloads">
+  </a>
+  <a href="../../releases/latest">
+    <img src="https://img.shields.io/badge/Download-Latest%20Version-6C5CE7?style=for-the-badge&logo=windows" alt="Download">
+  </a>
+  <a href="../../releases">
+    <img src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows" alt="Platform">
+  </a>
+  <a href="../../releases">
+    <img src="https://img.shields.io/github/v/release/The-Dev-Sumit/Revision-Room-Installation?style=for-the-badge&label=VERSION" alt="Version">
+  </a>
+</p>
 
 </div>
 
